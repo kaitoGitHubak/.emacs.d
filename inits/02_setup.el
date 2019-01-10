@@ -45,8 +45,8 @@
 
 ;; ウィンドウ内に収まらないときだけ、カッコ内も光らせる
 (setq show-paren-style 'mixed)
-(set-face-background 'show-paren-match-face "grey")
-(set-face-foreground 'show-paren-match-face "black")
+;;(set-face-background 'show-paren-match-face "grey")
+;;(set-face-foreground 'show-paren-match-face "black")
 
  ;;操作性の向上
 ;;１行毎にスクロール

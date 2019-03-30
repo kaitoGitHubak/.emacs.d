@@ -1,2 +1,2 @@
 ;; golden ratio
-(golden-ratio-mode 1)
+;;(golden-ratio-mode 1)
